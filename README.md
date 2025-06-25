@@ -1,9 +1,9 @@
 ## 🏸 AI-Shuttle-App
-## 👥 Team Members
+## 👬 Team Members
 - Yuttapat Na nakornpanom - Product Owner
 - Jirat Panunta - Dev Lead
 
-## 🎯 Product Vision Statement
+## 🦆 Product Vision Statement
 - For [นักกีฬา โค้ช หรือผู้สนใจในกีฬา]
 - who [ผู้ที่อยากจะพัฒนาประสิทธิภาพและเพิ่มความแม่นยำในการฝึกซ้อม]
 - the [AI Shuttle app]
