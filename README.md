@@ -1,7 +1,7 @@
 ## 🏸 AI-Shuttle-App
 ## 👬 Team Members
-- Yuttapat Na nakornpanom 66024907 - Product Owner
-- Jirat Panunta 66026381 - Dev Lead
+- Yuttapat Na nakornpanom 66024907 - 📝 Role Product Owner
+- Jirat Panunta 66026381 - 📝 Role Dev Lead
 
 ## 🦆 Product Vision Statement
 - For [นักกีฬา โค้ช หรือผู้สนใจในกีฬา]
